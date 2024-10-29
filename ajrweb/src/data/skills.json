@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Plumbing",
+        "imageSrc": "plumb.jpg"
+        }
+        ,
+    
+        {
+        "title": "Electrical",
+        "imageSrc": "wires.png"
+        }
+        ,
+    
+        {
+        "title": "Mechanics",
+        "imageSrc": "fixer.jpeg"
+        }
+        ,
+    
+        {
+        "title": "Carpentry",
+        "imageSrc": "carpenter.jpg"
+        }
+        ,
+    
+        {
+        "title": "Construction",
+        "imageSrc": "const.jpg"
+        }
+
+
+
+
+]

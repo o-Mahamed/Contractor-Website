@@ -1,0 +1,10 @@
+:root {
+    /* Colours */
+    --color-text: #000000;
+    --color-primary: #a00b08;
+    --color-secondary: #de2929;
+    --color-bg: #ffffff;
+    --color-white: #ffff;
+    /* Fonts */
+    --font-copp: "Times New Roman";
+}
